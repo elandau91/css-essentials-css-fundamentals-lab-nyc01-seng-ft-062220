@@ -29,7 +29,9 @@ figcaption {
   margin-left: auto;
 }
 
-
+#details {
+  display: block;
+}
 
 
 
