@@ -11,3 +11,6 @@ body {
   background-color: gray;
 }
 
+figcaption {
+  font-size: 8px;
+}
